@@ -1,0 +1,5 @@
+folder_in: '/home/yulia/folder_in/'
+folder_out: '/home/yulia/folder_out/'
+folder_ext: '/home/yulia/folder_ext/'
+count_file: 5
+size_file: '1M'
