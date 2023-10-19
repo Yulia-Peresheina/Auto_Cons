@@ -25,5 +25,6 @@ class TestsSeminar3Positive:
         assert checkout(f'cd {data.get("folder_ext")}; 7z x {data.get("folder_out")}archive.7z', 'Everything is Ok'), 'Test 7 FAIL'
 
 
+
 if __name__ == '__main__':
     pytest.main(["-vv"])
